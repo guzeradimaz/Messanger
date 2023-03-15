@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Messanger/static/css/main.760a03f9.css",
-    "main.js": "/Messanger/static/js/main.af9b2cb1.js",
+    "main.css": "/Messanger/static/css/main.4f3aa0be.css",
+    "main.js": "/Messanger/static/js/main.e87cb7c0.js",
     "static/media/blobanimation.svg": "/Messanger/static/media/blobanimation.f364d09dfe9421622dd6.svg",
     "static/media/settings.svg": "/Messanger/static/media/settings.289702251cb32e423f73bc455b382a2d.svg",
     "static/media/smile.svg": "/Messanger/static/media/smile.0b98a46e07f4543c3d920de488393592.svg",
@@ -14,14 +14,15 @@
     "static/media/light.svg": "/Messanger/static/media/light.6db2ed36eacdf587eeea942be73a3b7c.svg",
     "static/media/logout.svg": "/Messanger/static/media/logout.1c3bff3a41d3035020f8ecf148a68916.svg",
     "static/media/micro.svg": "/Messanger/static/media/micro.4c7206a86efd590a1c04e116e9a261eb.svg",
+    "static/media/Burger.svg": "/Messanger/static/media/Burger.9ff1920d953e9f8edd8dc356cacb6354.svg",
     "static/media/close.svg": "/Messanger/static/media/close.f03c28ac2315710d64e0.svg",
     "static/media/dots.svg": "/Messanger/static/media/dots.d7cbcbd3110d22a4a15a210897d98904.svg",
     "static/media/back.svg": "/Messanger/static/media/back.d8cbb569748c26b69944f10a816a3edb.svg",
-    "main.760a03f9.css.map": "/Messanger/static/css/main.760a03f9.css.map",
-    "main.af9b2cb1.js.map": "/Messanger/static/js/main.af9b2cb1.js.map"
+    "main.4f3aa0be.css.map": "/Messanger/static/css/main.4f3aa0be.css.map",
+    "main.e87cb7c0.js.map": "/Messanger/static/js/main.e87cb7c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.760a03f9.css",
-    "static/js/main.af9b2cb1.js"
+    "static/css/main.4f3aa0be.css",
+    "static/js/main.e87cb7c0.js"
   ]
 }
