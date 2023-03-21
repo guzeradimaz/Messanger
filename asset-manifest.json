@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Messanger/static/css/main.3f54f2ca.css",
+    "main.css": "/Messanger/static/css/main.53250523.css",
     "main.js": "/Messanger/static/js/main.96276796.js",
     "static/media/blobanimation.svg": "/Messanger/static/media/blobanimation.f364d09dfe9421622dd6.svg",
     "static/media/settings.svg": "/Messanger/static/media/settings.289702251cb32e423f73bc455b382a2d.svg",
@@ -19,11 +19,11 @@
     "static/media/close.svg": "/Messanger/static/media/close.f03c28ac2315710d64e0.svg",
     "static/media/dots.svg": "/Messanger/static/media/dots.d7cbcbd3110d22a4a15a210897d98904.svg",
     "static/media/back.svg": "/Messanger/static/media/back.d8cbb569748c26b69944f10a816a3edb.svg",
-    "main.3f54f2ca.css.map": "/Messanger/static/css/main.3f54f2ca.css.map",
+    "main.53250523.css.map": "/Messanger/static/css/main.53250523.css.map",
     "main.96276796.js.map": "/Messanger/static/js/main.96276796.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f54f2ca.css",
+    "static/css/main.53250523.css",
     "static/js/main.96276796.js"
   ]
 }
