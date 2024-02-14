@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Messanger/static/css/main.15ff39e2.css",
-    "main.js": "/Messanger/static/js/main.7eb290bb.js",
+    "main.css": "/Messanger/static/css/main.c99f7a7e.css",
+    "main.js": "/Messanger/static/js/main.e074e08e.js",
+    "static/media/cross.png": "/Messanger/static/media/cross.ced12f15b69b232e1e42.png",
     "static/media/blobanimation.svg": "/Messanger/static/media/blobanimation.f364d09dfe9421622dd6.svg",
     "static/media/settings.svg": "/Messanger/static/media/settings.289702251cb32e423f73bc455b382a2d.svg",
     "static/media/smile.svg": "/Messanger/static/media/smile.0b98a46e07f4543c3d920de488393592.svg",
@@ -19,11 +20,11 @@
     "static/media/close.svg": "/Messanger/static/media/close.f03c28ac2315710d64e0.svg",
     "static/media/dots.svg": "/Messanger/static/media/dots.d7cbcbd3110d22a4a15a210897d98904.svg",
     "static/media/back.svg": "/Messanger/static/media/back.d8cbb569748c26b69944f10a816a3edb.svg",
-    "main.15ff39e2.css.map": "/Messanger/static/css/main.15ff39e2.css.map",
-    "main.7eb290bb.js.map": "/Messanger/static/js/main.7eb290bb.js.map"
+    "main.c99f7a7e.css.map": "/Messanger/static/css/main.c99f7a7e.css.map",
+    "main.e074e08e.js.map": "/Messanger/static/js/main.e074e08e.js.map"
   },
   "entrypoints": [
-    "static/css/main.15ff39e2.css",
-    "static/js/main.7eb290bb.js"
+    "static/css/main.c99f7a7e.css",
+    "static/js/main.e074e08e.js"
   ]
 }
